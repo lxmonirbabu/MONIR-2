@@ -278,4 +278,4 @@ def rcrack1(uid,pwx,tl):
         sys.stdout.flush()
     except:
         pass
-Main()
+main()
